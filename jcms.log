@@ -1,0 +1,8 @@
+
+2018-10-02 23:54:20
+[ERROR]-[Thread: main]-[com.jfinal.kit.LogKit.error()]: port: 80 already in use!
+java.lang.IllegalStateException: port: 80 already in use!
+	at com.jfinal.server.JettyServerForIDEA.doStart(JettyServerForIDEA.java:89)
+	at com.jfinal.server.JettyServerForIDEA.start(JettyServerForIDEA.java:72)
+	at com.jfinal.core.JFinal.start(JFinal.java:171)
+	at com.daymooc.fcms.common.JcmsConfig.main(JcmsConfig.java:52)
