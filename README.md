@@ -26,9 +26,6 @@
 
     jcrop
 
-# 在线演示地址
-[http://lewis.org.cn](http://lewis.org.cn)
-
 # 图片演示
 ### 前台：
 ![](https://github.com/liuzhaopo/Lewis-Club/blob/master/sql/Lewis%E7%A4%BE%E5%8C%BA1.PNG?raw=true)
